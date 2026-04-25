@@ -41,3 +41,4 @@ just trying to improve day by day.
 ## daily log
 
 day 1 - created this repo and started the challenge ✅  
+day 2 - set up git repo, connected to github, resolved conflicts and organized project structure ✅ 
