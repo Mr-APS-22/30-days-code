@@ -45,3 +45,4 @@ day 2 - set up git repo, connected to github, resolved conflicts and organized p
 day 3 - worked on flutter app (landing page, login, dashboards) and connected with django backend, also understanding step by step using ai ✅
 day 4 - missed ❌  
 day 5 - created mini banking system project using python ✅ 
+day 6 - updated some code in CampusFlow project ✅
